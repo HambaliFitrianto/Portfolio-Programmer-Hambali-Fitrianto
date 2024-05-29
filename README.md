@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My Portfolio Website
 
 Welcome to my portfolio website! This repository contains the source code of my personal site, which is hosted on GitHub Pages.
@@ -19,3 +20,6 @@ Please follow these steps after forking the repository:
 Replace the token `xbjwkqok` with your newly obtained Formspree token.
 
 Thank you for your interest in my work and for collaborating to keep my inbox clean!
+=======
+# Portfolio-Programmer-Hambali-Fitrianto
+>>>>>>> 5cb4a6bbcc9c3686c3bc1352a39d0c211fb2da0a
